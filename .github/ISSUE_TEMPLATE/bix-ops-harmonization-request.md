@@ -16,10 +16,9 @@ assignees: zhangb1
 
 
 ### [Required] Basic study information 
-- [ ] Is this D3B or Kids First study:
+- [ ] Is this an OT or Kids First study:
+- [ ] If KF, PI name and fiscal year:
 - [ ] Study short name:
-- [ ] PI name:
-- [ ] Fiscal year:
 
 **NOTE**: Study short name is required for D3B study, but optional for Kids First X01; Fiscal year is required for Kids First X01, but optional for D3B study. Those information will be used for project naming in Cavatica.
 
