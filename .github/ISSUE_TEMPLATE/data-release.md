@@ -6,13 +6,11 @@ labels: data release
 assignees: ''
 ---
 
-#### What release are you using?
+#### Which new datasets are being added with this release?
 
-#### which new datasets are being added with this release?
+#### What is the sample breakdown (number of WGS, WXS, RNA-Seq, Panel, Methylation, other)?
 
-#### What is the sample breakdown (WGS, WXS, RNA-Seq, Panel, Methylation, other)?
-
-### What module(s) generated any new files to include in the release? Has that module been added to the analysis/README.md, and to CI?
+#### What module(s) generated any new files to include in the release? Has that module been added to the analysis/README.md, and to CI?
 
 #### Are you aware of any modules impacted by the file(s) change(s)? Describe if the file name is changed.
 
