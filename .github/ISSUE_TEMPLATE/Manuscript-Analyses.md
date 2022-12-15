@@ -1,3 +1,11 @@
+---
+name: Propose an analysis for a manuscript
+about: Use this issue template to propose a new analysis for a manuscript
+title: 'Proposed Analysis for manuscript:'
+labels: manuscript proposed analysis
+assignees: ''
+
+---
 <!--Hi there! Please take a moment to fill out the template below.-->
 
 #### Which manuscript does this ticket belong to ?
