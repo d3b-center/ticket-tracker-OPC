@@ -1,7 +1,7 @@
 ---
 name: Propose an analysis for a manuscript
 about: Use this issue template to propose a new analysis for a manuscript
-title: 'Proposed Analysis for manuscript:'
+title: 'Manuscript Analysis:'
 labels: manuscript proposed analysis
 assignees: ''
 
